@@ -6,11 +6,16 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+h1 {
+  text-align: center;
+}
+.task-container {
+  margin:  auto;
+  display: block;
+  width: 50%;
+  text-align: center;
 }
 
-* {
-  box-sizing: border-box;
+.task-list {
+  list-style: none;
 }
